@@ -1,8 +1,7 @@
 
 
 <b> 🚀 Deploy to heroku</b>
-[![Deploy]
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RaviBey/DANI-ANbot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RaviBey/DANI-ANbot.git)
 
 ━━━━━━━━━━━━━━━━━━━━
 
